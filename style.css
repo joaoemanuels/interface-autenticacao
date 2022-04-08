@@ -1,6 +1,6 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: #643d87 url('fundo.jpg') no-repeat top center;
+    background: #643d87 url('img/fundo.jpg') no-repeat top center;
 }
 #container{
     width: 400px;
@@ -31,10 +31,10 @@ input{
     background-position: 1%;
 }
 input.email{
-    background-image: url('icone-usuario.png');
+    background-image: url('img/icone-usuario.png');
 }
 input.senha{
-    background-image: url('icone-cadeado.png');
+    background-image: url('img/icone-cadeado.png');
 }
 input.botao{
     color: #fff;
